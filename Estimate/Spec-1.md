@@ -44,9 +44,11 @@ Expand / add a new garage to the east of the existing garage.  The new garage wo
 
 ### New garage that is bigger
 
-Build a new garage that is bigger than the existing garage.  It would open to the north and be a three car garage.  behind the garage would be a room and an office
+Build a new garage that is bigger than the existing garage.  It would open to the north and be a three car garage.  behind the garage would be a room and an office.
 
+Appears that a 40 x 36 foot garage would fit while maintaining 30' from the road and 10' from the lot line.
 ![garage remodel bigger](./../Appendix/big-garage.png)
+![garage remodel bigger 2](./../Appendix/big-garage-map.png)
 
 ### Add rooms behind existing garage
 
