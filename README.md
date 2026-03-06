@@ -1,4 +1,4 @@
-# 965 PIlgrim Addition
+# 965 Pilgrim Addition
 Define-Estimate-Design-Plan-Build
 
 Structure of repository for product development
@@ -11,7 +11,8 @@ Structure of repository for product development
 # Estimate: Concepts and cost estimates
 | Deliverable | Owner |
 |----|----|
-| [Please estimate these ideas](./Estimate/Spec-1.md) | TBD|
+| [Giant new garage Estimate](./Estimate/Estimate-1.md) | TBD|
+| [Addition Estimate](./Estimate/Estimate-2.md) | TBD|
 
 #  Design: Pick a concept and design it
 |Deliverable | Owner |
