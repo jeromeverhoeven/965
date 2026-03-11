@@ -1,7 +1,7 @@
 # Estimate 2
 
 ## Estimate Overview
-Add a 24 x 24 addition with a bedroom and bathroom behind the garage
+Add anaddition with a bedroom and bathroom behind the garage
 - Bathroom
 - Bedroom / Office
 
