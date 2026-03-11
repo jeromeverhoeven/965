@@ -15,19 +15,21 @@ Structure of repository for product development
 | [Addition Estimate](./Estimate/Estimate-2.md) | TBD|
 
 #  Design: Pick a concept and design it
+
 |Deliverable | Owner |
 |----|----|
+<br/>
 
 
 # Plan: Plan out the work to be done, the schedule, and the resources needed
 |Deliverable | Owner |
 |----|----|
-
+<br/>
 
 # Build 
 | Deliverable | Description | Owner |
 |-------------|-------------|-------|
-
+<br/>
 
 # Appendix
 | File | Description | Owner |

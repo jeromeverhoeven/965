@@ -1,0 +1,11 @@
+﻿,Units,Cost,Total
+"### Surveying, Detailed Design, Permitting",1,5000,5000
+### New Slab,1,10000,10000
+### Walkway to front door,0,10000,0
+### Structure,1,30000,30000
+### Plumbing,1,10000,10000
+### Electrical,1,5000,5000
+### HVAC,1,5000,5000
+### Interior Finishes (excluding bathrom),1,10000,10000
+### Bathroom Finishes,1,10000,10000
+Total,,,85000
