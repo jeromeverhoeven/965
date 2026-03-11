@@ -48,7 +48,7 @@ Cement patio in the back of the house for entertaining and grilling.  12 x 12 fo
 
 ## Considerations
 - There is a sewer stack and a hot and cold water on the east side for the existing house.
-- What about roof pitch if we keep the existing garage?  The addition was reduced to 20 x 24 so the roof tie in can use 24 foot rafters and keep the same pitch as the existing garage.
+- What about roof pitch if we keep the existing garage?  The addition was reduced to 20 x 24 so the roof tie in can use 24 foot rafters and keep the same pitch as the existing garage.   ![Roof Tie-In](./Estimate-2-media/roof-tie-in.png)
 - Where do I move the water heater exhaust, dryer vent and new furnace exhaust?
 - where should I put HVAC condenser?
 
