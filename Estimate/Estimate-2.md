@@ -1,7 +1,7 @@
 # Estimate 2
 
 ## Estimate Overview
-Add anaddition with a bedroom and bathroom behind the garage
+Add an addition with a bedroom and bathroom behind the garage
 - Bathroom
 - Bedroom / Office
 
