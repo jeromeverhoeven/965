@@ -5,10 +5,10 @@ Add a 24 x 24 addition with a bedroom and bathroom behind the garage
 - Bathroom
 - Bedroom / Office
 
-### New Garage Overview
+### Addition Overview
 ![Addition Overview](./Estimate-2-media/Addition-Details.png)
 
-### New Garage Satellite View
+### Addition Satellite View
 ![Addition Arial](./Estimate-2-media/Addition-Overview.png)
 
 ## Items to be estimated
